@@ -1,0 +1,11 @@
+.image {
+  width: 90px;
+  height: auto;
+}
+
+.buttonStyle {
+  border: none;
+  padding: 0px;
+  font-size: 0px;
+  cursor: pointer;
+}
